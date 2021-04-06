@@ -1,0 +1,9 @@
+*.pptx
+*.ppt
+*.docx
+*.doc
+*.xlsx
+*.xls
+*.joblib
+.ipynb*
+MY_MP_API.txt
